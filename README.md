@@ -1,3 +1,3 @@
 # myFirstProject
 This is my first repository
-Author : Ayush Tiwari
+Author : Ayush Tiwari (coder)
